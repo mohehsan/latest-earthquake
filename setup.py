@@ -9,7 +9,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="latestearthquake-nusantara",
-    version="0.1",
+    version="0.2",
     author="Muhammad Ihsan",
     author_email="muhammadihsan3011@gmail.com",
     description="This package will get the latest earthquake from BMKG | Meteorogical, Climatological, and "
